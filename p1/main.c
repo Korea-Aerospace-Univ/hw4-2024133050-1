@@ -18,6 +18,7 @@ int main()
             break;
         }
         sum ++;
-        }while(sum<=5);
-        return 0;
+    }while(n);
+    
+    return 0;
 }

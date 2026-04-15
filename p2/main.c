@@ -8,7 +8,7 @@ int main()
     int cur_number=0, max_number=0;
     scanf("%d",&N);
     for(int i=1;i<=N;i++){
-        scanf("%c",&ch);
+        scanf(" %c",&ch);
         
         if (ch>='a'&& ch<='z'){
             cur_letter ++;
